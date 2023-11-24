@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Artmit2
 - 👀 I’m interested in art
-- 🌱 I’m currently learning artists
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning all the arts
 - 📫 How to reach me email: artartmit40@gmail.com
 
 <!---
